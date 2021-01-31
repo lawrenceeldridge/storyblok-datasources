@@ -1,0 +1,62 @@
+[
+   {
+      "name": "span",
+      "value": "span"
+   },
+   {
+      "name": "div",
+      "value": "div"
+   },
+   {
+      "name": "p",
+      "value": "p"
+   },
+   {
+      "name": "h1",
+      "value": "h1"
+   },
+   {
+      "name": "h2",
+      "value": "h2"
+   },
+   {
+      "name": "h3",
+      "value": "h3"
+   },
+   {
+      "name": "h4",
+      "value": "h4"
+   },
+   {
+      "name": "h5",
+      "value": "h5"
+   },
+   {
+      "name": "sub",
+      "value": "sub"
+   },
+   {
+      "name": "sup",
+      "value": "sup"
+   },
+   {
+      "name": "strong",
+      "value": "strong"
+   },
+   {
+      "name": "del",
+      "value": "del"
+   },
+   {
+      "name": "legend",
+      "value": "legend"
+   },
+   {
+      "name": "dt",
+      "value": "dt"
+   },
+   {
+      "name": "dd",
+      "value": "dd"
+   }
+]

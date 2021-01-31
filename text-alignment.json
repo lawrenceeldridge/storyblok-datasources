@@ -1,0 +1,22 @@
+[
+   {
+      "name": "center",
+      "value": "center"
+   },
+   {
+      "name": "left",
+      "value": "left"
+   },
+   {
+      "name": "right",
+      "value": "right"
+   },
+   {
+      "name": "start",
+      "value": "start"
+   },
+   {
+      "name": "end",
+      "value": "end"
+   }
+]

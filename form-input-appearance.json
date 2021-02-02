@@ -1,22 +1,22 @@
 [
    {
       "name": "Default",
-      "value": 0
+      "value": "0"
    },
    {
       "name": "Disabled",
-      "value": 1
+      "value": "1"
    },
    {
       "name": "Error",
-      "value": 2
+      "value": "2"
    },
    {
       "name": "Success",
-      "value": 3
+      "value": "3"
    },
    {
       "name": "ReadOnly",
-      "value": 4
+      "value": "4"
    },
 ]

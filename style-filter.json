@@ -1,0 +1,34 @@
+[
+  {
+    "name": "brightness(0.2)",
+    "value": "brightness(0.2)"
+  },
+  {
+    "name": "brightness(0.4)",
+    "value": "brightness(0.4)"
+  },
+  {
+    "name": "brightness(0.6)",
+    "value": "brightness(0.6)"
+  },
+  {
+    "name": "brightness(0.8)",
+    "value": "brightness(0.8)"
+  },
+  {
+    "name": "grayscale(50%)",
+    "value": "grayscale(50%)"
+  },
+  {
+    "name": "grayscale(100%)",
+    "value": "grayscale(100%)"
+  },
+  {
+    "name": "blur(5px)",
+    "value": "blur(5px)"
+  },
+  {
+    "name": "blur(10px)",
+    "value": "blur(10px)"
+  }
+]

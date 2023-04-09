@@ -1,0 +1,30 @@
+[
+  {
+    "name": "column",
+    "value": "column"
+  },
+  {
+    "name": "row",
+    "value": "row"
+  },
+  {
+    "name": "dense",
+    "value": "dense"
+  },
+  {
+    "name": "inherit",
+    "value": "inherit"
+  },
+  {
+    "name": "initial",
+    "value": "initial"
+  },
+  {
+    "name": "revert",
+    "value": "revert"
+  },
+  {
+    "name": "unset",
+    "value": "unset"
+  }
+]

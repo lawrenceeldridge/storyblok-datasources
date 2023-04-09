@@ -1,0 +1,74 @@
+[
+  {
+    "name": "center",
+    "value": "center"
+  },
+  {
+    "name": "end",
+    "value": "end"
+  },
+  {
+    "name": "flex-end",
+    "value": "flex-end"
+  },
+  {
+    "name": "flex-start",
+    "value": "flex-start"
+  },
+  {
+    "name": "left",
+    "value": "left"
+  },
+  {
+    "name": "normal",
+    "value": "normal"
+  },
+  {
+    "name": "right",
+    "value": "right"
+  },
+  {
+    "name": "safe",
+    "value": "safe"
+  },
+  {
+    "name": "space-around",
+    "value": "space-around"
+  },
+  {
+    "name": "space-between",
+    "value": "space-between"
+  },
+  {
+    "name": "space-evenly",
+    "value": "space-evenly"
+  },
+  {
+    "name": "start",
+    "value": "start"
+  },
+  {
+    "name": "stretch",
+    "value": "stretch"
+  },
+  {
+    "name": "unsafe",
+    "value": "unsafe"
+  },
+  {
+    "name": "inherit",
+    "value": "inherit"
+  },
+  {
+    "name": "initial",
+    "value": "initial"
+  },
+  {
+    "name": "revert",
+    "value": "revert"
+  },
+  {
+    "name": "unset",
+    "value": "unset"
+  }
+]

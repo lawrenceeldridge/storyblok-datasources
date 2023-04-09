@@ -1,0 +1,90 @@
+[
+  {
+    "name": "auto (justify only)",
+    "value": "auto"
+  },
+  {
+    "name": "baseline",
+    "value": "baseline"
+  },
+  {
+    "name": "center",
+    "value": "center"
+  },
+  {
+    "name": "end",
+    "value": "end"
+  },
+  {
+    "name": "first",
+    "value": "first"
+  },
+  {
+    "name": "flex-end",
+    "value": "flex-end"
+  },
+  {
+    "name": "flex-start",
+    "value": "flex-start"
+  },
+  {
+    "name": "last",
+    "value": "last"
+  },
+  {
+    "name": "left",
+    "value": "left"
+  },
+  {
+    "name": "legacy",
+    "value": "legacy"
+  },
+  {
+    "name": "normal",
+    "value": "normal"
+  },
+  {
+    "name": "right",
+    "value": "right"
+  },
+  {
+    "name": "safe",
+    "value": "safe"
+  },
+  {
+    "name": "self-end",
+    "value": "self-end"
+  },
+  {
+    "name": "self-start",
+    "value": "self-start"
+  },
+  {
+    "name": "start",
+    "value": "start"
+  },
+  {
+    "name": "stretch",
+    "value": "stretch"
+  },
+  {
+    "name": "unsafe",
+    "value": "unsafe"
+  },
+  {
+    "name": "inherit",
+    "value": "inherit"
+  },
+  {
+    "name": "initial",
+    "value": "initial"
+  },
+  {
+    "name": "revert",
+    "value": "revert"
+  },
+  {
+    "name": "unset",
+    "value": "unset"
+  }
+]

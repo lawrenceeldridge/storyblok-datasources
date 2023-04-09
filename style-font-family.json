@@ -1,0 +1,14 @@
+[
+  {
+    "name":"Sans Serif",
+    "value":"sans"
+  },
+  {
+    "name":"Serif",
+    "value":"serif"
+  },
+  {
+    "name":"Monospace",
+    "value":"monospace"
+  }
+]
